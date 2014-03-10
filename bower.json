@@ -1,0 +1,7 @@
+{
+  "name": "wd-polymer-example",
+  "private": true,
+  "dependencies": {
+    "platform": "Polymer/platform#~0.2.1"
+  }
+}

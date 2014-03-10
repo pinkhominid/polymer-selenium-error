@@ -1,0 +1,11 @@
+{
+  "name": "wd-polymer-example",
+  "private": true,
+  "devDependencies": {
+    "chai": "~1.9.0",
+    "chai-as-promised": "~4.1.1",
+    "wd": "~0.2.12",
+    "selenium-standalone": "~2.40.0-2.9.0",
+    "express": "~3.5.0"
+  }
+}
